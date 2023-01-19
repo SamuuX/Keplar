@@ -16,7 +16,7 @@
     "license": "ISC",
     "homepage": "https://github.com/humaiyun/Keplar#readme",
     "dependencies": {
-        "@discordjs/builders": "^0.6.0",
+        "@discordjs/builders": "^0.16.0",
         "@discordjs/opus": "^0.6.0",
         "ascii-table": "^0.0.9",
         "cpu-stat": "^2.0.1",
